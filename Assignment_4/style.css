@@ -1,0 +1,19 @@
+/* Highlight class */
+.highlight {
+    background-color: yellow;
+    color: black;
+    padding: 10px;
+  }
+  
+  /* Active button */
+  .active-btn {
+    background-color: green;
+    color: white;
+  }
+  
+  /* Dark mode */
+  .dark-mode {
+    background-color: black;
+    color: white;
+  }
+  
